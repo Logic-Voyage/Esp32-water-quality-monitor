@@ -1,2 +1,24 @@
-# Esp32-water-quality-monitor
-This project is an IoT-based system designed to monitor water quality and water level in real time. It uses an ESP32 microcontroller connected to multiple sensors such as a TDS sensor to measure water purity, a DHT11 sensor to detect temperature, and an ultrasonic sensor to monitor the water level. 
+# IoT Water Quality Monitoring System
+
+This project monitors water quality using ESP32 and multiple sensors.
+
+## Components
+- ESP32
+- TDS sensor
+- Ultrasonic sensor
+- DHT11 temperature sensor
+- LEDs and buzzer
+
+## Features
+- Real-time monitoring
+- Overflow detection
+- Mobile web interface
+- LED alert system
+
+## Technologies
+- ESP32
+- Arduino framework
+- PlatformIO
+
+## Author
+Sumedh Khobragade
